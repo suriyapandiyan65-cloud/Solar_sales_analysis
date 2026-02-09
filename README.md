@@ -17,7 +17,7 @@ This project focuses on analyzing solar product sales data to identify sales tre
   - Total Sales
 - Dataset was loaded and processed using Python for analysis and SQL Server for querying.
 
----
+
 
 ## Tools & Technologies
 - **Python**: Pandas
@@ -37,7 +37,6 @@ This project focuses on analyzing solar product sales data to identify sales tre
 7. Created a detailed analytical report  
 8. Prepared a business-focused presentation using Gamma  
 
----
 
 ## Dashboard
 The Power BI dashboard highlights:
